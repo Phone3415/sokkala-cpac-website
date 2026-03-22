@@ -3,44 +3,44 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.yourdomain.com/</loc>
+    <loc>https://cpac-nakhonsawan.com</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#about</loc>
+    <loc>https://cpac-nakhonsawan.com#about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#location</loc>
+    <loc>https://cpac-nakhonsawan.com#location</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#services</loc>
+    <loc>https://cpac-nakhonsawan.com#services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#employee</loc>
+    <loc>https://cpac-nakhonsawan.com#employee</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#policy</loc>
+    <loc>https://cpac-nakhonsawan.com#policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/#contact</loc>
+    <loc>https://cpac-nakhonsawan.com#contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
